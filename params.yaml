@@ -1,0 +1,11 @@
+data:
+  hot_songs_file: 'hot100_songs.csv'
+  not_hot_songs_file: 'song_data.csv'
+
+
+random_choice:
+  seed: 2020
+  selection: 20000
+
+
+
